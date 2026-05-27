@@ -1,0 +1,51 @@
+2026-05-27 15:35:32 | WARNING  | discord.client | PyNaCl is not installed, voice will NOT be supported
+2026-05-27 15:35:32 | WARNING  | discord.client | davey is not installed, voice will NOT be supported
+2026-05-27 15:35:32 | INFO     | discord.client | logging in using static token
+2026-05-27 15:35:32 | INFO     | database | SQLite підключено: tasks.db
+2026-05-27 15:35:32 | INFO     | bot | База даних ініціалізована
+2026-05-27 15:35:32 | INFO     | bot | Cog завантажено: cogs.tasks
+2026-05-27 15:35:32 | INFO     | bot | Cog завантажено: cogs.notifications
+2026-05-27 15:35:32 | INFO     | bot | Cog завантажено: cogs.admin
+2026-05-27 15:35:32 | INFO     | bot | Cog завантажено: cogs.stats
+2026-05-27 15:35:33 | INFO     | bot | Синхронізовано 9 slash-команд
+2026-05-27 15:35:33 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: 41b4f2b72016bf9d239d47fc7ca41795).
+2026-05-27 15:35:35 | INFO     | bot | Бот запущено як KHAI#9924 (ID: 1509172378054168678)
+2026-05-27 15:36:10 | INFO     | cogs.tasks | Завдання #1 додано користувачем 506168501615067138
+2026-05-27 15:36:28 | INFO     | cogs.admin | Канал нагадувань встановлено: 1509154494976491580 (guild: 1509145903624228904)
+2026-05-27 15:36:36 | INFO     | cogs.notifications | Відправлено 1 нагадувань
+2026-05-27 15:40:52 | WARNING  | discord.client | PyNaCl is not installed, voice will NOT be supported
+2026-05-27 15:40:52 | WARNING  | discord.client | davey is not installed, voice will NOT be supported
+2026-05-27 15:40:52 | INFO     | discord.client | logging in using static token
+2026-05-27 15:40:53 | INFO     | database | SQLite підключено: tasks.db
+2026-05-27 15:40:53 | INFO     | bot | База даних ініціалізована
+2026-05-27 15:40:53 | INFO     | bot | Cog завантажено: cogs.tasks
+2026-05-27 15:40:53 | INFO     | bot | Cog завантажено: cogs.notifications
+2026-05-27 15:40:53 | INFO     | bot | Cog завантажено: cogs.admin
+2026-05-27 15:40:53 | INFO     | bot | Cog завантажено: cogs.stats
+2026-05-27 15:40:53 | INFO     | bot | Синхронізовано 9 slash-команд
+2026-05-27 15:40:54 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: fc39945b34eeb6b4742a05c08c2e8b22).
+2026-05-27 15:40:56 | INFO     | bot | Бот запущено як KHAI#9924 (ID: 1509172378054168678)
+2026-05-27 16:28:30 | WARNING  | discord.client | PyNaCl is not installed, voice will NOT be supported
+2026-05-27 16:28:30 | WARNING  | discord.client | davey is not installed, voice will NOT be supported
+2026-05-27 16:28:30 | INFO     | discord.client | logging in using static token
+2026-05-27 16:28:31 | INFO     | database | SQLite підключено: tasks.db
+2026-05-27 16:28:31 | INFO     | bot | База даних ініціалізована
+2026-05-27 16:28:31 | INFO     | bot | Cog завантажено: cogs.tasks
+2026-05-27 16:28:31 | INFO     | bot | Cog завантажено: cogs.notifications
+2026-05-27 16:28:31 | INFO     | bot | Cog завантажено: cogs.admin
+2026-05-27 16:28:31 | INFO     | bot | Cog завантажено: cogs.stats
+2026-05-27 16:28:31 | INFO     | bot | Синхронізовано 9 slash-команд
+2026-05-27 16:28:32 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: bf74301f44d9e34c6e47abaaf7c5a7ff).
+2026-05-27 16:28:34 | INFO     | bot | Бот запущено як KHAI#9924 (ID: 1509172378054168678)
+2026-05-27 18:29:35 | WARNING  | discord.client | PyNaCl is not installed, voice will NOT be supported
+2026-05-27 18:29:35 | WARNING  | discord.client | davey is not installed, voice will NOT be supported
+2026-05-27 18:29:35 | INFO     | discord.client | logging in using static token
+2026-05-27 18:29:36 | INFO     | database | SQLite підключено: tasks.db
+2026-05-27 18:29:36 | INFO     | bot | База даних ініціалізована
+2026-05-27 18:29:36 | INFO     | bot | Cog завантажено: cogs.tasks
+2026-05-27 18:29:36 | INFO     | bot | Cog завантажено: cogs.notifications
+2026-05-27 18:29:36 | INFO     | bot | Cog завантажено: cogs.admin
+2026-05-27 18:29:36 | INFO     | bot | Cog завантажено: cogs.stats
+2026-05-27 18:29:36 | INFO     | bot | Синхронізовано 9 slash-команд
+2026-05-27 18:29:37 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: 47a2ffad6da7be97e8db64513d11c0e7).
+2026-05-27 18:29:39 | INFO     | bot | Бот запущено як KHAI#9924 (ID: 1509172378054168678)
